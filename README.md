@@ -27,3 +27,7 @@ To enable:
 ```
 drush en drupal_sectools_usage
 ```
+To run:
+```
+drush modules-usages-status
+```
