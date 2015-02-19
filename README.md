@@ -22,3 +22,8 @@ Drupal Security Tool Usage
 Adds the 'modules-usages-status' (mus) Drush command.
 Generate a CSV listing of all modules with their versions and associated usage counts.
 This can be used as input into security auditing scope.
+
+To enable:
+```
+drush en drupal_sectools_usage
+```
